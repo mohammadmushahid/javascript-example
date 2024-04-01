@@ -1,0 +1,38 @@
+{
+    "Data": {
+        "Name": "Naved",
+    "class": "Bca",
+    "roll": 101,
+    "data": [1,2,3,4,5],
+    "obj": {
+        "stu1": "Rehan",
+        "stu2": "Rehan",
+        "stu3": "Rehan",
+        "stu4": "Rehan"
+    }
+    },
+    "Data2": {
+        "Name": "Naved",
+    "class": "Bca",
+    "roll": 101,
+    "data": [1,2,3,4,5],
+    "obj": {
+        "stu1": "Rehan",
+        "stu2": "Rehan",
+        "stu3": "Rehan",
+        "stu4": "Rehan"
+    }
+    },
+    "Data3": {
+        "Name": "Naved",
+    "class": "Bca",
+    "roll": 101,
+    "data": [1,2,3,4,5],
+    "obj": {
+        "stu1": "Rehan",
+        "stu2": "Rehan",
+        "stu3": "Rehan",
+        "stu4": "Rehan"
+    }
+    }
+}
